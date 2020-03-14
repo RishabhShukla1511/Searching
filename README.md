@@ -1,2 +1,2 @@
 # Searching
-A repo for sorting methods
+A repo for searching methods
